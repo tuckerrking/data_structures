@@ -5,6 +5,8 @@
 //  Created by Tucker King on 9/20/21.
 //
 
+// NOTE: Based on code provided in class by professor
+
 #ifndef cs372List_h
 #define cs372List_h
 #pragma once
