@@ -8,6 +8,6 @@ where code was pulled from class lectures.
 Inlcudes the following data structures:
 - Linked List
 - Stack
-- Bag
+- Bag (NOTE: Bag is incomplete currently)
 
 I will continue to update this repository as the semester continues. 
